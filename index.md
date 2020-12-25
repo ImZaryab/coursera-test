@@ -1,6 +1,6 @@
 ## My Additions
 ### 1. [Test Addition](https://imzaryab.github.io/coursera-test/site/)
-### 2. [Module 2 Solution*](https://imzaryab.github.io/coursera-test/module2-solution/)
+### 2. [Module 2 Solution(Completed)](https://imzaryab.github.io/coursera-test/module2-solution/)
 
 
 
