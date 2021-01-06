@@ -1,0 +1,49 @@
+#BrandName, .navbar-brand
+{
+	color: #ffffff;
+	font-size: 1.7em;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link
+{
+	color: #ffffff;
+	text-align: center;
+}
+
+#ourMenuTitle
+{
+	margin-top: 20px;
+}
+
+#sectionTile
+{
+	background: #171717;
+	color: #ffffff;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+#sectionTitle
+{
+	font-size: 1.5em;
+	margin-top: 20px;
+}
+
+#sectionText
+{
+	font-size: 1.4em;
+}
+
+.row
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+@media (min-width: 768px)
+{
+	#header, .navbar
+	{
+		height: 100px;
+	}
+}
