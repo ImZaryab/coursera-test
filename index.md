@@ -3,6 +3,7 @@
 ### 2. [Module 2 Solution(Completed)](https://imzaryab.github.io/coursera-test/module2-solution/)
 ### 3. [Module 3 Solution(Completed)](https://imzaryab.github.io/coursera-test/module3-solution/)
 ### 4. [Module 4 Solution(Completed)](https://imzaryab.github.io/coursera-test/module4-solution/)
+### 5. [Module 5 Solution(Completed)](https://imzaryab.github.io/coursera-test/module5-solution/)
 
 
 
